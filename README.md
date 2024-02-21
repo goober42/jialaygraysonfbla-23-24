@@ -1,8 +1,8 @@
 # jialaygraysonfbla-23-24
 
-##Topic
+## Topic
 
-###A business has approached your team and asked you to develop a website that advertises
+### A business has approached your team and asked you to develop a website that advertises
 their open positions. The website must showcase your coding and creative design skills. Your
 website must include the following:
 • A page including information about benefits and/or reasons to work at the company.
