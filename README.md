@@ -1,4 +1,8 @@
-# jialaygraysonfbla-23-24
+# FBLA Web Coding and Development
+
+## This is a project for the FBLA event Website Coding and Development
+## This project is done by Grayson Carter and Jialai Ying
+## Uses Java and Python
 
 # Topic
 
